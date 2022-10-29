@@ -12,6 +12,7 @@ Tugas : Pemrograman Orientasi Objek
 
 Berikut kode java untuk mendeklarasikan class person dengan atribut nama, jenis kelamin dan umur.
 Dengan menggunakan public static void dan diisi dengan argumen string. berikut tampilan programnya
+
 <img width="559" alt="ss1" src="https://user-images.githubusercontent.com/95495311/198755424-d06b7de9-7cb7-4786-a454-107ef6caec56.png">
 
 inilah tampilan setelah kita merunning program java di atas
